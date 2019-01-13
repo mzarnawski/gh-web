@@ -2,6 +2,4 @@
 
 awesome
 
-Editing on update-readme branch
-
-Updated locally
+Updates before rebase
