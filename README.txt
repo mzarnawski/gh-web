@@ -2,6 +2,6 @@
 
 awesome
 
-Example branch
-
 Editing on update-readme branch
+
+Updated locally
